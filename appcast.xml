@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
 <channel>
+    <item>
+      <title>2.0.0</title>
+      <sparkle:version>47</sparkle:version>
+      <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 19 Nov 2026 20:05:36 +0000</pubDate>
+      <enclosure
+        url="https://github.com/Kitetasks/kitetasks-mac/releases/download/v2.0.0/KiteTasks-2.0.0.dmg"
+        length="26547542"
+        type="application/octet-stream"
+        sparkle:edSignature="6QpZngR+HoAqcBtonN8pS4nr19Ns83XgykAalFdhhwJYfhnhwm33eedvKL31dINC8EGurd7WXqfx3B0UZ9FfAQ=="
+      />
+    </item>
     <title>KiteTasks</title>
 </channel>
 </rss>
